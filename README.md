@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=35&pause=1000&color=9CA1BA&width=435&lines=Ol%C3%A1%F0%9F%91%8B;Eu+sou+o+Guilherme!" alt="Typing SVG" /></a>
-
 <div align="center">
   <img height="200" src="https://i.gifer.com/7IjS.gif"  />
 </div>
@@ -36,10 +34,13 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/guimunizzz/guimunizzz/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api username=guimunizzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guimunizzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guimunizzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guimunizzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
