@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/guimunizzz/README/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<guimunizzz>/<guimunizzz>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
