@@ -1,10 +1,4 @@
-<h2 align="left">Olá👋</h2>
-
-###
-
-<p align="left">Meu nome é Guilherme e sou formado em desenvolvimento de sistemas.</p>
-
-###
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=35&pause=1000&color=9CA1BA&width=435&lines=Ol%C3%A1%F0%9F%91%8B;Eu+sou+o+Guilherme!" alt="Typing SVG" /></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
