@@ -2,7 +2,7 @@
   <img height="200" src="https://i.gifer.com/7IjS.gif"  />
 </div>
 
-###
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=900&size=30&pause=1000&color=A041E1&center=true&width=435&lines=Ol%C3%A1%F0%9F%91%8B;Bem+vindo+ao+meu+github" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
