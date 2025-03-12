@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=900&size=30&pause=1000&color=A041E1&center=true&width=435&lines=Ol%C3%A1%F0%9F%91%8B;Bem+vindo+ao+meu+github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=900&size=30&pause=1000&color=A041E1&width=435&lines=Ol%C3%A1%F0%9F%91%8B;Bem+vindo+ao+meu+github" alt="Typing SVG" /></a>
 
 
 <div align="center">
