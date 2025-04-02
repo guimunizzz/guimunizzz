@@ -1,6 +1,14 @@
 name: GitHub Snake Game
 
-
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # ⬇️ Adicione isso para permitir push no branch 'output'
+    permissions:
+      contents: write  # Permite escrever no repositório
+      pages: write     # Opcional, se for usar GitHub Pages
+      id-token: write  # Opcional, para OIDC (se necessário)
 
 on:
 
