@@ -1,47 +1,70 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=900&size=30&pause=1000&color=A041E1&center=true&vCenter=true&width=435&lines=Ol%C3%A1%F0%9F%91%8B;Bem+vindo+ao+meu+github" alt="Typing SVG" /></a>
+# Guilherme Muniz 👋
 
+### Blue Team | Back-end | Security Operations
 
-  <img height="200" src="https://i.gifer.com/7IjS.gif"  />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=24&pause=1000&color=A041E1&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub;Blue+Team+%7C+EDR%2FXDR+%7C+XSIAM;Node.js+%7C+TypeScript+%7C+Back-end" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+![Blue Team](https://img.shields.io/badge/Blue%20Team-111827?style=for-the-badge&logo=shield&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Security](https://img.shields.io/badge/Security-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+
 </div>
 
-<br clear="both">
+---
+
+## 🚀 Sobre
+
+Analista de Segurança da Informação com foco em **Blue Team**, **EDR/XDR**, **SOAR**, **vulnerabilidades** e **segurança de endpoints**.
+
+Formado em **Análise e Desenvolvimento de Sistemas**, com base em **Node.js** e **TypeScript**, conectando desenvolvimento e segurança.
+
+---
+
+## 🛠️ Stack
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,mysql,docker,dotnet,azure,aws,linux,bash,kali" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🎯 Foco atual
 
-![snake gif](https://github.com/guimunizzz/guimunizzz/blob/output/github-snake-dark.svg)
+- Operações de Blue Team
+- EDR / XDR / SOAR
+- Segurança de endpoints
+- Back-end com Node.js e TypeScript
 
-###
+---
+
+## 📚 Estudos e certificações
+
+- Certificações em tecnologias **Palo Alto**
+- Certificações em tecnologias **Microsoft**
+- Estudos em redes com foco em **CCNA**
+- Preparação para **DCPT**
+
+---
+
+## 🔎 Áreas de interesse
+
+- Threat Detection
+- Incident Response
+- Security Automation
+- APIs e back-end
+- Blue Team / Red Team
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guimunizzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guimunizzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github.com/guimunizzz/guimunizzz/blob/output/github-snake-dark.svg" alt="snake animation" />
 </div>
